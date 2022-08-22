@@ -1,0 +1,3 @@
+FLASK-ASSETS/TAILWINDCSS
+- https://testdriven.io/blog/flask-htmx-tailwind/
+- https://stackoverflow.com/questions/71885972/using-tailwind3-in-flask-application-without-manually-re-generating-css
